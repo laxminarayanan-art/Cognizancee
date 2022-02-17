@@ -1,0 +1,15 @@
+This program will allow the user to print the Nth fibonacci number.
+
+Begin
+Declare Integer i,r1,r2,number
+Assign r1=0
+Assign r2=1
+Output "Input the number"
+Input number
+For i=0 to number-1
+     Assign r2=r1+r2
+     Assign r1=r2-r1
+End
+Output r1
+End
+           

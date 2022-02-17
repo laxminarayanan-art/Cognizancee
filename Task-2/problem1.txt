@@ -1,0 +1,17 @@
+This program will allow the user to check the number whether it's divisible by 3 or not divisible by 3 without using % explicitly.
+ 
+Begin
+Declare Integer i, number, result
+Output "Enter the number"
+Input number
+For i=number to 0 decreasing step 3
+       Assign result=i
+End
+If result==0
+      Output "True"
+Else
+      Output "False"
+End
+End
+
+
