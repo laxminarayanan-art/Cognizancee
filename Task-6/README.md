@@ -45,13 +45,13 @@
 ## **STEPS TO FOLLOW**
   If you want to utilise this opportunity follow the steps:
   
-*ENTER YOUR NAME
+:radio_button: ENTER YOUR NAME
 
-*ENTER YOUR MAIL ID
+:radio_button: ENTER YOUR MAIL ID
 
-*ENTER YOUR PHONE NUMBER
+:radio_button: ENTER YOUR PHONE NUMBER
 
-*CLICK ON SIGN IN
+:radio_button: CLICK ON SIGN IN
 
 >NOTE:ENTER THESE DETAILS ON THE LANDING PAGE
 
