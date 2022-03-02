@@ -15,19 +15,14 @@
      
 <hr>
 
-## **OUR SERVICES**
- 
-:black_large_square: :black_large_square: :black_large_square: :black_large_square: :black_large_square: :black_large_square: :black_large_square: :black_large_square: 
-:black_large_square:                                                                                                                               :black_large_square:
-:black_large_square:        COMPLETE COURSE VEDIOS                                                                                                 :black_large_square:       :black_large_square:                                                                                                                               :black_large_square:
-⬛                                                                                                                                                 :black_large_square:
-⬛                         LIVE DOUBT CLARIFICATION                                                                                                :black_large_square:
-:black_large_square:                                                                                                                               :black_large_square:
-:black_large_square:                                                                                                                               :black_large_square:
-:black_large_square:        QUIZZES AND CONTEST                                                                                                    :black_large_square:       :black_large_square:                                                                                                                               :black_large_square:
-:black_large_square:                                                                                                                               :black_large_square:
-:black_large_square: :black_large_square: :black_large_square: :black_large_square: :black_large_square: :black_large_square: :black_large_square: :black_large_square:
+## **OUR SERVICES**:                                                                                                                              
+:black_large_square:        COMPLETE COURSE VEDIOS                                                                                            
+                                                                                                                                          
+⬛                         LIVE DOUBT CLARIFICATION                                                                                              
+                                                                                                                               
+:black_large_square:        QUIZZES AND CONTEST   
 
+<HR>
 
 ## **FUTURE IMPROVEMENTS:** 
      The landing page that I created was for CAD basics.As CAD is a important course and an interesting course I want to provide more topic video for students.As this is a free online course many students can make use of this and learn this course which will be very useful for them in future.
@@ -40,6 +35,8 @@
 >  :telescope: ACTIVELY PARTICIPATING MEMBERS CAN GET MORE GUIDANCE. :telescope:
 
 :green_square: :red_square: :green_square: :red_square: :green_square: :red_square:
+     
+<HR>
 
 ## **MY LANDING PAGE:**
    This is my landing page.
