@@ -9,9 +9,25 @@
 ## **MOTIVATION:**
 
 > :octocat:  "My favourite course was CAD"  :octocat:
+
      In my first semester, I had a course called MEE and I learnt CAD under this course.I used AUTOCAD software to draw designs.That turned out to be my favourite course in that semester.
      So, as soon as I heard about the task the concept of making a landing page for CAD course came into my mind and that stood as a main motivation to create a landing page for CAD course.
+     
 <hr>
+
+## **OUR SERVICES**
+ 
+:black_large_square: :black_large_square: :black_large_square: :black_large_square: :black_large_square: :black_large_square: :black_large_square: :black_large_square: 
+:black_large_square:                                                                                                                               :black_large_square:
+:black_large_square:        COMPLETE COURSE VEDIOS                                                                                                 :black_large_square:       :black_large_square:                                                                                                                               :black_large_square:
+⬛                                                                                                                                                 :black_large_square:
+⬛                         LIVE DOUBT CLARIFICATION                                                                                                :black_large_square:
+:black_large_square:                                                                                                                               :black_large_square:
+:black_large_square:                                                                                                                               :black_large_square:
+:black_large_square:        QUIZZES AND CONTEST                                                                                                    :black_large_square:       :black_large_square:                                                                                                                               :black_large_square:
+:black_large_square:                                                                                                                               :black_large_square:
+:black_large_square: :black_large_square: :black_large_square: :black_large_square: :black_large_square: :black_large_square: :black_large_square: :black_large_square:
+
 
 ## **FUTURE IMPROVEMENTS:** 
      The landing page that I created was for CAD basics.As CAD is a important course and an interesting course I want to provide more topic video for students.As this is a free online course many students can make use of this and learn this course which will be very useful for them in future.
@@ -26,7 +42,21 @@
 :green_square: :red_square: :green_square: :red_square: :green_square: :red_square:
 
 ## **MY LANDING PAGE:**
+   This is my landing page.
 ![MY LANDING PAGE](https://github.com/laxminarayanan-art/Cognizancee/blob/main/TASK-3/Web%201920%20%E2%80%93%201.png)
+
+## **STEPS TO FOLLOW**
+  If you want to utilise this opportunity follow the steps:
+  
+*ENTER YOUR NAME
+
+*ENTER YOUR MAIL ID
+
+*ENTER YOUR PHONE NUMBER
+
+*CLICK ON SIGN IN
+
+>NOTE:ENTER THESE DETAILS ON THE LANDING PAGE
 
 <HR>
 
