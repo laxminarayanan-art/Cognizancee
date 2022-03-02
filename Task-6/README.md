@@ -19,12 +19,13 @@
 >ACTIVELY PARTICIPATING MEMBERS CAN GET    MORE GUIDANCE. 
 
 <HR>
-<hr>
 
+:black_small_square:
 
 “Decide what you want, and then act as if it  were impossible to fail.”
 
-<hr>
+:black_small_square:
+
 <hr>
 
  
