@@ -8,7 +8,7 @@
 
 ## **MOTIVATION:**
 
- >:octocat: === "My favourite course was CAD" === :octocat:
+> :octocat:  "My favourite course was CAD"  :octocat:
      In my first semester, I had a course called MEE and I learnt CAD under this course.I used AUTOCAD software to draw designs.That turned out to be my favourite course in that semester.
      So, as soon as I heard about the task the concept of making a landing page for CAD course came into my mind and that stood as a main motivation to create a landing page for CAD course.
 <hr>
@@ -24,6 +24,9 @@
 >  :telescope: ACTIVELY PARTICIPATING MEMBERS CAN GET MORE GUIDANCE. :telescope:
 
 :green_square: :red_square: :green_square: :red_square: :green_square: :red_square:
+
+## **MY LANDING PAGE:**
+![MY LANDING PAGE](https://github.com/laxminarayanan-art/Cognizancee/blob/main/TASK-3/Web%201920%20%E2%80%93%201.png)
 
 <HR>
 
