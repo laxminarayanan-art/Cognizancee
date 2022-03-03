@@ -75,7 +75,7 @@
 
 ```
 
-<span style="color:orange"> “Decide what you want,<span style="color:white"> and then<span style="color:blue"> act<span style="color:white"> as if it<span style="color:green"> were impossible to fail.”
+ “Decide what you want, and then act as if it were impossible to fail.”
      
 ```
 <hr>
