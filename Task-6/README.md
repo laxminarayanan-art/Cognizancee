@@ -1,9 +1,9 @@
-# *LANDING PAGE* :basecamp:
+# # <span style="color:violet">*L*<span style="color:pink">A<span style="color:violet">N<span style="color:pink">D<span style="color:violet">I<span style="color:pink">N<span style="color:violet">G <span style="color:pink">P<span style="color:violet">A<span style="color:pink">G<span style="color:violet">E:basecamp:
 
 ---
 
 ## **THEME:**
-:white_check_mark: The theme of this landing page is to advertise a free :free: online CAD course among the people.
+:white_check_mark: <span style="color:yellow">The theme of this landing page is to advertise a free :free: online CAD course among the people.
 <hr>
 
 ## **MOTIVATION:**
@@ -24,22 +24,38 @@
 
 <HR>
 
-## **FUTURE IMPROVEMENTS:** 
-     The landing page that I created was for CAD basics.As CAD is a important course and an interesting course I want to provide more topic video for students.As this is a free online course many students can make use of this and learn this course which will be very useful for them in future.
+## **FUTURE IMPROVEMENTS:**
+     
+*This advertisement is for a course that covers CAD basics.Steps will be taken to upload a bunch of new videos according to the difficulty level.
 
-    As soon as more course videos are uploaded
-    steps will be taken by our group to create a software with the students who have actively participated in quizzes and contest conducted by our team.
+*Steps will be taken to provide certificates to students who completes each level of course.
 
-:green_square: :red_square: :green_square: :red_square: :green_square: :red_square:
+*Steps will be taken for arranging interactive meeting sessions between beginners and students who completed more than half of the course.
+     
+*The process of providing subtitles will be taken care of.
+     
+*Classes will be taken by the top professors in the country.
+     
+*Steps will be taken to provide videos in their native language so that it will be more easy for the students.
+     
+*After the student completes the entire course a session will organised to guide them for their future steps.
+     
+     
+:green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square:
 
 >  :telescope: ACTIVELY PARTICIPATING MEMBERS CAN GET MORE GUIDANCE. :telescope:
+ 
+:green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square:
 
-:green_square: :red_square: :green_square: :red_square: :green_square: :red_square:
      
 <HR>
 
 ## **MY LANDING PAGE:**
-   This is my landing page.
+     
+  ***************************
+  * This is my landing page *
+  ***************************
+     
 ![MY LANDING PAGE](https://github.com/laxminarayanan-art/Cognizancee/blob/main/TASK-3/Web%201920%20%E2%80%93%201.png)
 
 ## **STEPS TO FOLLOW**
@@ -59,7 +75,7 @@
 
 ```
 
-“Decide what you want, and then act as if it  were impossible to fail.”
+<span style="color:orange"> “Decide what you want, and then act as if it  were impossible to fail.”
      
 ```
 <hr>
