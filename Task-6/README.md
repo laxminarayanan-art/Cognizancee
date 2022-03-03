@@ -55,7 +55,7 @@
   
    <span style="color:pink">:basecampy:This is my landing page :bowtie:
  
-![MY LANDING PAGE](https://github.com/laxminarayanan-art/Cognizancee/blob/main/TASK-3/Web%201920%20%E2%80%93%201.png)
+   ![MY LANDING PAGE](https://github.com/laxminarayanan-art/Cognizancee/blob/main/TASK-3/Web%201920%20%E2%80%93%201.png)
 
 ## **UTILIZE THIS OPPORTUNITY**
   If you want to utilize this opportunity follow the steps:
