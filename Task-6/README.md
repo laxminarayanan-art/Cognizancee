@@ -26,19 +26,19 @@
 
 ## **<span style="color:pink">FUTURE <span style="color:violet">IMPROVEMENTS:**
      
-*<span style="color:orange">This advertisement is for a course that covers CAD basics.Steps will be taken to upload a bunch of new videos according to the difficulty level.
+:one:<span style="color:orange">This advertisement is for a course that covers CAD basics.Steps will be taken to upload a bunch of new videos according to the difficulty level.
 
-*<span style="color:white">Steps will be taken to provide certificates to students who completes each level of course.
+:two:<span style="color:white">Steps will be taken to provide certificates to students who completes each level of course.
 
-*<span style="color:green">Steps will be taken for arranging interactive meeting sessions between beginners and students who completed more than half of the course.
+:three:<span style="color:green">Steps will be taken for arranging interactive meeting sessions between beginners and students who completed more than half of the course.
      
-*<span style="color:orange">The process of providing subtitles will be taken care of.
+4️⃣:<span style="color:orange">The process of providing subtitles will be taken care of.
      
-*<span style="color:white">Classes will be taken by the top professors in the country.
+:five:<span style="color:white">Classes will be taken by the top professors in the country.
      
-*<span style="color:green">Steps will be taken to provide videos in their native language so that it will be more easy for the students.
+:six:<span style="color:green">Steps will be taken to provide videos in their native language so that it will be more easy for the students.
      
-*<span style="color:orange">After the student completes the entire course a session will organised to guide them for their future steps.
+:seven:<span style="color:orange">After the student completes the entire course a session will organised to guide them for their future steps.
      
      
 :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: 
