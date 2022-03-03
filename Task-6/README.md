@@ -1,4 +1,4 @@
-# # <span style="color:violet">*L*<span style="color:pink">A<span style="color:violet">N<span style="color:pink">D<span style="color:violet">I<span style="color:pink">N<span style="color:violet">G <span style="color:pink">P<span style="color:violet">A<span style="color:pink">G<span style="color:violet">E:basecamp:
+#  <span style="color:violet">*L*<span style="color:pink">A<span style="color:violet">N<span style="color:pink">D<span style="color:violet">I<span style="color:pink">N<span style="color:violet">G <span style="color:pink">P<span style="color:violet">A<span style="color:pink">G<span style="color:violet">E:basecamp:
 
 ---
 
@@ -24,21 +24,21 @@
 
 <HR>
 
-## **FUTURE IMPROVEMENTS:**
+## **<span style="color:pink">FUTURE <span style="color:violet">IMPROVEMENTS:**
      
-*This advertisement is for a course that covers CAD basics.Steps will be taken to upload a bunch of new videos according to the difficulty level.
+*<span style="color:orange">This advertisement is for a course that covers CAD basics.Steps will be taken to upload a bunch of new videos according to the difficulty level.
 
-*Steps will be taken to provide certificates to students who completes each level of course.
+*<span style="color:white">Steps will be taken to provide certificates to students who completes each level of course.
 
-*Steps will be taken for arranging interactive meeting sessions between beginners and students who completed more than half of the course.
+*<span style="color:green">Steps will be taken for arranging interactive meeting sessions between beginners and students who completed more than half of the course.
      
-*The process of providing subtitles will be taken care of.
+*<span style="color:orange">The process of providing subtitles will be taken care of.
      
-*Classes will be taken by the top professors in the country.
+*<span style="color:white">Classes will be taken by the top professors in the country.
      
-*Steps will be taken to provide videos in their native language so that it will be more easy for the students.
+*<span style="color:green">Steps will be taken to provide videos in their native language so that it will be more easy for the students.
      
-*After the student completes the entire course a session will organised to guide them for their future steps.
+*<span style="color:orange">After the student completes the entire course a session will organised to guide them for their future steps.
      
      
 :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: 
@@ -50,10 +50,10 @@
      
 <HR>
 
-## **MY LANDING PAGE:**
+## **<span style="color:violet">MY LANDING PAGE:**
      
   ***************************
-   This is my landing page 
+   <span style="color:pink">This is my landing page 
   ***************************
      
 ![MY LANDING PAGE](https://github.com/laxminarayanan-art/Cognizancee/blob/main/TASK-3/Web%201920%20%E2%80%93%201.png)
@@ -75,7 +75,7 @@
 
 ```
 
-<span style="color:orange"> “Decide what you want, and then act as if it  were impossible to fail.”
+<span style="color:orange"> “Decide what you want,<span style="color:white"> and then<span style="color:blue"> act<span style="color:white"> as if it<span style="color:green"> were impossible to fail.”
      
 ```
 <hr>
