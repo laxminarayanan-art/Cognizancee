@@ -41,11 +41,11 @@
 *After the student completes the entire course a session will organised to guide them for their future steps.
      
      
-:green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square:
+:green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: 
 
 >  :telescope: ACTIVELY PARTICIPATING MEMBERS CAN GET MORE GUIDANCE. :telescope:
  
-:green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square:
+:green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: 
 
      
 <HR>
@@ -53,7 +53,7 @@
 ## **MY LANDING PAGE:**
      
   ***************************
-  * This is my landing page *
+   This is my landing page 
   ***************************
      
 ![MY LANDING PAGE](https://github.com/laxminarayanan-art/Cognizancee/blob/main/TASK-3/Web%201920%20%E2%80%93%201.png)
