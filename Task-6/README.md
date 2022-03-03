@@ -10,8 +10,8 @@
 
 > :octocat:  "My favourite course was CAD"  :octocat:
 
-* In my first semester, I had a course called MEE and I learnt CAD under this course.I used AUTOCAD software to draw designs.That turned out to be my favourite course in that semester.
-* So, as soon as I heard about the task the concept of making a landing page for CAD course came into my mind and that stood as a main motivation to create a landing page for CAD course.
+* In my first semester, I had an MEE course, and I learned CAD under this course. I used AUTOCAD software to draw designs. That turned out to be my favorite course that semester.
+* So, as soon as I heard about the task the concept of making a landing page for the CAD course came into my mind and that stood as the main motivation to create a landing page for the CAD course.
      
 <hr>
 
@@ -28,17 +28,17 @@
      
 :one:<span style="color:orange">This advertisement is for a course that covers CAD basics.Steps will be taken to upload a bunch of new videos according to the difficulty level.
 
-:two:<span style="color:white">Steps will be taken to provide certificates to students who completes each level of course.
+:two:<span style=" color: white">Steps will be taken to provide certificates to students who complete each level of the course.
 
-:three:<span style="color:green">Steps will be taken for arranging interactive meeting sessions between beginners and students who completed more than half of the course.
+:three:<span style=" color: green">Steps will be taken for arranging interactive meeting sessions between beginners and students who completed more than half of the course.
      
-4️⃣:<span style="color:orange">The process of providing subtitles will be taken care of.
+4️⃣:<span style=" color: orange">The process of providing subtitles will be taken care of.
      
 :five:<span style="color:white">Classes will be taken by the top professors in the country.
      
-:six:<span style="color:green">Steps will be taken to provide videos in their native language so that it will be more easy for the students.
+:six:<span style=" color: green">Steps will be taken to provide videos in their native language so that it will be easier for the students.
      
-:seven:<span style="color:orange">After the student completes the entire course a session will organised to guide them for their future steps.
+:seven:<span style=" color: orange">After the student completes the entire course a session will be organized to guide them for their future steps.
      
      
 :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: :red_square: :green_square: 
@@ -54,14 +54,15 @@
      
   
    <span style="color:pink">:basecampy:This is my landing page :bowtie:
+
+<hr>
  
-     
-![MY LANDING PAGE](https://github.com/laxminarayanan-art/Cognizancee/blob/main/TASK-3/Web%201920%20%E2%80%93%201.png)
+     ![MY LANDING PAGE](https://github.com/laxminarayanan-art/Cognizancee/blob/main/TASK-3/Web%201920%20%E2%80%93%201.png)
 
 ## **UTILIZE THIS OPPORTUNITY**
   If you want to utilize this opportunity follow the steps:
 
-:radio_button:OPEN MY LANDING PAGE
+:radio_button: OPEN MY LANDING PAGE
   
 :radio_button: ENTER YOUR NAME
 
@@ -73,7 +74,7 @@
         
 :radio_button: IF YOU HAVE ALREADY REGISTERED LOGIN 
 
->NOTE:ENTER THESE DETAILS ON THE LANDING PAGE
+>NOTE: ENTER THESE DETAILS ON THE LANDING PAGE
 
 <HR>
 
