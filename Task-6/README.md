@@ -58,8 +58,10 @@
      
 ![MY LANDING PAGE](https://github.com/laxminarayanan-art/Cognizancee/blob/main/TASK-3/Web%201920%20%E2%80%93%201.png)
 
-## **STEPS TO FOLLOW**
+## **UTILIZE THIS OPPORTUNITY**
   If you want to utilise this opportunity follow the steps:
+
+:radio_button:OPEN MY LANDING PAGE
   
 :radio_button: ENTER YOUR NAME
 
@@ -67,7 +69,9 @@
 
 :radio_button: ENTER YOUR PHONE NUMBER
 
-:radio_button: CLICK ON SIGN IN
+:radio_button: CLICK ON SIGN UP
+        
+:radio_button: IF YOU HAVE ALREADY REGISTERED LOGIN 
 
 >NOTE:ENTER THESE DETAILS ON THE LANDING PAGE
 
