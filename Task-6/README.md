@@ -53,8 +53,8 @@
 ## **<span style="color:violet">MY LANDING PAGE:**
      
   ***************************
-   <span style="color:pink">This is my landing page 
-  ***************************
+   <span style="color:pink">:basecampy:This is my landing page :bowtie:
+ 
      
 ![MY LANDING PAGE](https://github.com/laxminarayanan-art/Cognizancee/blob/main/TASK-3/Web%201920%20%E2%80%93%201.png)
 
